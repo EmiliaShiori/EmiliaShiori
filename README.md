@@ -1,12 +1,18 @@
-**EmiliaShiori/EmiliaShiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ahhhhhhh bios are hard
 
-Here are some ideas to get you started:
+Uh hi, I'm Emilia, thats about it, really
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+_____
+
+## Current projects:
+
+- [Akari](https://top.gg/bot/881278261315895397)
+
+(Yes, thats it right now, this bot takes up a bunch of my time)
+
+_____
+
+## Contact Information
+
+- Discord: [Emilia#1605](https://discord.com/users/699293465607012463)
+- Server: [discord.gg/sakiya](https://discord.gg/ffyWU2hCBs)
