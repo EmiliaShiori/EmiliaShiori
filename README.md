@@ -6,4 +6,4 @@
 <h3 align="left">Buy me a coffee!</h3>
 <a href="https://ko-fi.com/emiliashiori"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emiliashiori" /></a>
 
-![]([https://i.imgur.com/6O3pJIm.gif](https://media.tenor.com/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif))
+<div class="tenor-gif-embed" data-postid="6255874111095877274" data-share-method="host" data-aspect-ratio="1.18571" data-width="100%"><a href="https://tenor.com/view/kururin-kuru-kuru-herta-herta-sippining-honkai-star-rail-gif-6255874111095877274">Kururin Kuru Kuru GIF</a>from <a href="https://tenor.com/search/kururin-gifs">Kururin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
