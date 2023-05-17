@@ -1,8 +1,6 @@
 <h1 align="center">Yo, I'm Emilia</h1>
 <h3 align="center">Head developer at Sakiya</h3>
 
-<p align="left"> <a href="https://twitter.com/emiliashiori" target="blank"><img src="https://img.shields.io/twitter/follow/emiliashiori?logo=twitter&style=for-the-badge" alt="emiliashiori" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/akaribot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akaribot" height="30" width="40" /></a>
