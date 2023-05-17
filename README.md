@@ -6,4 +6,5 @@
 <h3 align="left">Buy me a coffee!</h3>
 <a href="https://ko-fi.com/emiliashiori"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emiliashiori" /></a>
 <h3 align="left">Kuru Kuru!</h3>
+
 ![](https://media.tenor.com/VtFUW-durpoAAAAC/kururin-kuru-kuru.gif))
