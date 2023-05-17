@@ -1,9 +1,3 @@
-<h1 align="center">Yo, I'm Emilia</h1>
-<h3 align="center">Head developer at Sakiya</h3>
 
-<h3 align="left">Join the Akari / Sakiya discord!</h3>
-<a href="https://discord.gg/SjKgKAmEBM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="akaribot" height="30" width="40" /></a>
-<h3 align="left">Buy me a coffee!</h3>
-<a href="https://ko-fi.com/emiliashiori"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="emiliashiori" /></a>
 
-<div class="tenor-gif-embed" data-postid="6255874111095877274" data-share-method="host" data-aspect-ratio="1.18571" data-width="100%"><a href="https://tenor.com/view/kururin-kuru-kuru-herta-herta-sippining-honkai-star-rail-gif-6255874111095877274">Kururin Kuru Kuru GIF</a>from <a href="https://tenor.com/search/kururin-gifs">Kururin GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](https://i.imgur.com/6O3pJIm.gif)
